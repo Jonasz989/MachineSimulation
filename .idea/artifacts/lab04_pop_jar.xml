@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab04_pop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab04_pop_jar</output-path>
+    <root id="archive" name="lab04_pop.jar">
+      <element id="module-output" name="lab04_pop" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
